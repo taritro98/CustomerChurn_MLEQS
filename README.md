@@ -23,10 +23,6 @@ The outline and summary of each of the notebooks are:
 
 5. **Interpretability, Risk Analysis & Validation (5_ModelExplainability_RiskAnalysis.ipynb)** - Interpretation of model predictions using SHAP, exploration of churn risk scores, and a detailed analysis of prediction errors. Calibration curves are employed to assess model reliability.
 
-
----
-
-
 ---
 ## Conclusion
 
