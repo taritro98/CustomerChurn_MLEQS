@@ -3,7 +3,7 @@
 ---
 
 
-# QuantSpark MLE Assessment - Customer Churn Prediction for B2B SaaS
+# Customer Churn Prediction for B2B SaaS
 **Notebook Author - Taritro Ghoshal**
 
 ## Task Introduction
